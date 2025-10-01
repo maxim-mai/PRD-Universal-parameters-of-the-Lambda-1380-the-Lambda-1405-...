@@ -1,0 +1,94 @@
+###############################
+#Fitting M3 S1 10
+#EXP(0)+LQCD(14+4)
+###############################
+chisqrdof   0.9631966
+Levels      6.054373    14
+Masses      1.651473    4
+Amadeus     1000    	0
+SIDHARTA    1000   	0
+channel1    1000    	0
+channel2    1000    	0
+channel3    1000    	0
+channel4    1000    	0
+channel5    1000    	0
+channel6    1000    	0
+###############################
+qmax[GeV] 1000
+###############################
+#subtraction constants EXP (replaced here by hand by the lattice ones)
+a1  -0.023358930
+a2  -0.107970000
+a3  -0.004088304
+a4   0.003560274
+a5   0.216370000
+a6   0.039480000
+#subtraction constants LAT
+a1  -0.023358930
+a2  -0.107970000
+a3  -0.004088304
+a4   0.003560274
+a5   0.216370000
+a6   0.039480000
+###############################
+#LECS
+b0 -0.473091803
+bD  0.081163578
+bF -0.314540748
+d1  0.352698259
+d2 -0.070419222
+d3 -0.200269741
+d4 -0.557220522
+###############################
+#decay constants EXP
+fpi  0.09240
+fK   0.11000
+feta 0.11880
+#decay constants LAT
+fpi  0.093153000
+fK   0.108230000
+feta 0.121099000
+###############################
+#the baryon masses EXP
+mbaryon1  0.9382720
+mbaryon2  0.9395653
+mbaryon3  1.1156830
+mbaryon4  1.1926420
+mbaryon5  1.1974490
+mbaryon6  1.1893700
+mbaryon7  1.1156830
+mbaryon8  1.1926420
+mbaryon9  1.3217100
+mbaryon10 1.3148600
+MMes1  0.4936770
+MMes2  0.4976140
+MMes3  0.1349766
+MMes4  0.1349766
+MMes5  0.1395702
+MMes6  0.1395702
+MMes7  0.5478530
+MMes8  0.5478530
+MMes9  0.4936770
+MMes10 0.4976140
+#the baryon masses LAT
+mbaryon1  0.9873115
+mbaryon2  0.9873115
+mbaryon3  1.1297607
+mbaryon4  1.1902871
+mbaryon5  1.1902871
+mbaryon6  1.1902871
+mbaryon7  1.1297607
+mbaryon8  1.1902871
+mbaryon9  1.2942457
+mbaryon10 1.2942457
+MMes1  0.4863795
+MMes2  0.4863795
+MMes3  0.2036412
+MMes4  0.2036412
+MMes5  0.2036412
+MMes6  0.2036412
+MMes7  0.5511440
+MMes8  0.5511440
+MMes9  0.4863795
+MMes10 0.4863795
+###############################
